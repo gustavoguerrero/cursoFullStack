@@ -1,2 +1,2 @@
-# cursoFullStackProy1
-Primer proyecto del curso Full Stack
+# cursoFullStack
+Cosas del Curso Full Stack
