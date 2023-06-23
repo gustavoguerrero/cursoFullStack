@@ -38,7 +38,7 @@ meses.forEach( mes => {
 let resultado;
 
 // Some ideal para arreglo de objetos
-resultado = carrito.some( producto => producto.nombre === 'Celular');
+//resultado = carrito.some( producto => producto.nombre === 'Celular');
 
 // Reduce
 resultado = carrito.reduce( (total, producto) =>  total + producto.precio, 0);
